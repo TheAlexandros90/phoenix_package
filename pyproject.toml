@@ -24,9 +24,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/TU_USUARIO/phoenix-df"
-Repository = "https://github.com/TU_USUARIO/phoenix-df"
-Issues = "https://github.com/TU_USUARIO/phoenix-df/issues"
+Homepage = "https://github.com/TheAlexandros90/phoenix_package"
+Repository = "https://github.com/TheAlexandros90/phoenix_package"
+Issues = "https://github.com/TheAlexandros90/phoenix_package/issues"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
