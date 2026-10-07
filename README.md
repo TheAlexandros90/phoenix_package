@@ -59,6 +59,11 @@ print(phoenix.df)
 python -m unittest discover -s tests -v
 ```
 
+Los archivos de `tests/` están escritos para servir también como ejemplos de uso reales de la biblioteca.
+
+- `tests/test_phoenix.py`: comprobaciones rápidas de comportamiento básico.
+- `tests/test_usage_examples.py`: flujos de limpieza y reporte más cercanos a un caso real.
+
 ## Publicación en GitHub
 
 1. Crea un repositorio nuevo.
